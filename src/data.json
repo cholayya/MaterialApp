@@ -1,0 +1,128 @@
+ [
+    {
+        "id":1,
+        "name":"Niagara Falls",
+        "tours":[
+            {
+                "id":1,
+                "name":"immerse into the Falls",
+                "duration":5,
+                "rating":4.5,
+                "numberOfReviews":462,
+                "price":465,
+                "image":"../images/1.jpeg"
+
+            },
+            {
+                "id":2,
+                "name":"immerse into the Falls",
+                "duration":5,
+                "rating":4.5,
+                "numberOfReviews":400,
+                "price":368,
+                "image":"../images/1.jpeg"
+
+            },
+            {
+                "id":3,
+                "name":"immerse into the Falls",
+                "duration":5,
+                "rating":4.5,
+                "numberOfReviews":462,
+                "price":465,
+                "image":"../images/1.jpeg"
+
+            },
+            {
+                "id":4,
+                "name":"immerse into the Falls",
+                "duration":5,
+                "rating":4.5,
+                "numberOfReviews":462,
+                "price":465,
+                "imageUrl": "../images/1.jpeg"
+
+            },
+            {
+                "id":1,
+                "name":"immerse into the Falls",
+                "duration":5,
+                "rating":4.5,
+                "numberOfReviews":462,
+                "price":465,
+                "image":"../images/1.jpeg"
+
+            },
+            {
+                "id":2,
+                "name":"immerse into the Falls",
+                "duration":5,
+                "rating":4.5,
+                "numberOfReviews":400,
+                "price":368,
+                "image":"../images/1.jpeg"
+
+            },
+            {
+                "id":3,
+                "name":"immerse into the Falls",
+                "duration":5,
+                "rating":4.5,
+                "numberOfReviews":462,
+                "price":465,
+                "image":"../images/1.jpeg"
+
+            },
+            {
+                "id":4,
+                "name":"immerse into the Falls",
+                "duration":5,
+                "rating":4.5,
+                "numberOfReviews":462,
+                "price":465,
+                "imageUrl": "../images/1.jpeg"
+
+            },
+            {
+                "id":1,
+                "name":"immerse into the Falls",
+                "duration":5,
+                "rating":4.5,
+                "numberOfReviews":462,
+                "price":465,
+                "image":"../images/1.jpeg"
+
+            },
+            {
+                "id":2,
+                "name":"immerse into the Falls",
+                "duration":5,
+                "rating":4.5,
+                "numberOfReviews":400,
+                "price":368,
+                "image":"../images/1.jpeg"
+
+            },
+            {
+                "id":3,
+                "name":"immerse into the Falls",
+                "duration":5,
+                "rating":4.5,
+                "numberOfReviews":462,
+                "price":465,
+                "image":"../images/1.jpeg"
+
+            },
+            {
+                "id":4,
+                "name":"immerse into the Falls",
+                "duration":5,
+                "rating":4.5,
+                "numberOfReviews":462,
+                "price":465,
+                "imageUrl": "../images/1.jpeg"
+
+            }
+        ]
+    }
+]
